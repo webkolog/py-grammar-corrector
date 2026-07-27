@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python: 3.6+](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://www.python.org/downloads/)
-[![CI: GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-brightgreen.svg)](https://github.com/webkolog/py-system-information/actions)
 [![CI](https://github.com/webkolog/py-grammar-corrector/actions/workflows/python-tests.yml/badge.svg)](https://github.com/webkolog/py-grammar-corrector/actions)
 
 **Version:** 1.0
